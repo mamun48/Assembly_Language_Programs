@@ -20,6 +20,7 @@
 
 1(a) Series Summition
 - Write an assembly language program to implement a series summation program that will read a number N of single decimal digit (from 1 to 3) as input and then calculate the summation value of the series 1+2+...+N. Your program must contain necessary messages for formatted input and output.
+
 1(b) Factorial Calculation
 - Write an assembly language program to implement a factorial calculation program that will read a number N of single decimal digit (from 0 to 3) as input and then determine the factorial value of N. Your program must contain necessary messages for formatted input and output.
 
@@ -27,8 +28,8 @@
 
 2(a) Even-Odd Testing Problem 
 - Write an assembly language program to implement an even-odd testing program that will read a number N of single decimal digit (from 0 to 9) as input and then determine whether N is an even number or an odd number. Your program must contain necessary messages for formatted input and output.
-2(b) Prime Number Testing Problem
 
+2(b) Prime Number Testing Problem
 - Write an assembly language program to implement a prime number testing program that will read a number N of single decimal digit (from 0 to 9) as input and then determine whether N is a prime number or not. Your program must contain necessary messages for formatted input and output.
 
 ### Title: Largest number & Sorting Problems
