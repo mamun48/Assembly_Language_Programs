@@ -61,6 +61,7 @@
 2(b) Longest Alphabetical Sequence
 
 - Write an assembly language program to implement a searching program that will read a string (a word of letters of English alphabet either all in uppercase or all in lowercase but not both) as input and then find out the longest sequence of letters in the word in alphabetical order. Your program must contain necessary messages for formatted input and output.
+
 2(c) Check Substring ✓
 
 - Write an assembly language program to implement a searching program that will read two strings (two words of letters of English alphabet either all in uppercases or all in lowercases but not both) as input and then determine whether a string is a substring of another string or not. Your program must contain necessary messages for formatted input and output.
