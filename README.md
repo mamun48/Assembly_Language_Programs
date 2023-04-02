@@ -26,19 +26,19 @@
 
 ### Title: Even-Odd & Prime Number Testing Problems
 
-2(a) Even-Odd Testing Problem 
+2(a) Even-Odd Testing Problem ✓
 - Write an assembly language program to implement an even-odd testing program that will read a number N of single decimal digit (from 0 to 9) as input and then determine whether N is an even number or an odd number. Your program must contain necessary messages for formatted input and output.
 
-2(b) Prime Number Testing Problem
+2(b) Prime Number Testing Problem ✓
 - Write an assembly language program to implement a prime number testing program that will read a number N of single decimal digit (from 0 to 9) as input and then determine whether N is a prime number or not. Your program must contain necessary messages for formatted input and output.
 
 ### Title: Largest number & Sorting Problems
 
-3(a) Find Largest Number
+3(a) Find Largest Number ✓
 
 - Write an assembly language program to implement a largest number finding program that will read an array of numbers of single decimal digits (from 0 to 9) as input and then find out the largest number among all the numbers as output. Your program must contain necessary messages for formatted input and output.
 
-3(b) Number Sorting
+3(b) Number Sorting ✓
 
 - Write an assembly language program to implement a sorting program that will read an array of numbers of single decimal digits (from 0 to 9) as input and then sort the numbers in (1) ascending order (ii) descending order as output. Your program must contain necessary messages for formatted input and output.
 
@@ -69,7 +69,7 @@
 ### Title: Counting & Sorting Problems
 
 
-3(a) Count Vowels, Consonants, Digits & Spaces
+3(a) Count Vowels, Consonants, Digits & Spaces ✓
 
 - Write an assembly language program to implement a counting program that will read a string (a line of characters of letters, digits, punctuation symbols, and others) as input and then count the number of Vowels, Consonants, Digits, and Spaces in the string as output. Your program must contain necessary messages for formatted input and output.
 
