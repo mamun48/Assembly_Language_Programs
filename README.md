@@ -18,10 +18,10 @@
 ## Index
 ### Title:  Series Summation & Factorial Calculation Problems
 
-1(a) Series Summition
+1(a) Series Summition ✓
 - Write an assembly language program to implement a series summation program that will read a number N of single decimal digit (from 1 to 3) as input and then calculate the summation value of the series 1+2+...+N. Your program must contain necessary messages for formatted input and output.
 
-1(b) Factorial Calculation
+1(b) Factorial Calculation ✓
 - Write an assembly language program to implement a factorial calculation program that will read a number N of single decimal digit (from 0 to 3) as input and then determine the factorial value of N. Your program must contain necessary messages for formatted input and output.
 
 ### Title: Even-Odd & Prime Number Testing Problems
